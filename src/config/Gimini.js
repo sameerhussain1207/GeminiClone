@@ -1,7 +1,7 @@
 
 import { GoogleGenerativeAI } from "@google/generative-ai";
 
-const ai = new  GoogleGenerativeAI("AIzaSyCpqIXe1blc2zHdGYrAgFWKhIp6i9yckPY" );
+const ai = new  GoogleGenerativeAI("GEMINI AI api Key" );
 
 
 async function main(prompt) {
